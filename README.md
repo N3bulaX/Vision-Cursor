@@ -1,15 +1,13 @@
 ---
 
-Vision-Cursor
+## Vision-Cursor
 
 This repository contains [Vision-Cursor], a package of minimalist cursors for Windows.
 
-Download:
+## Download:
 To get the latest version, you can download it [here](https://mega.nz/file/owsDXRxL#UZLMD9Ej6lY5B4sMUDNbM5p6Tu_D4PLJgK1ufJFb8vo).
 
 **Installation Guide:**
-
-Installation Guide:
 
  ##  Step 1 Once you've downloaded the compressed file, unzip it.
 
