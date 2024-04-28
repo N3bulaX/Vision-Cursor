@@ -4,6 +4,9 @@
 
 This repository contains [Vision-Cursor], a package of minimalist cursors for Windows.
 
+![cursor](https://github.com/N3bulaX/Vision-Cursor/assets/117851699/323fe005-f712-4f89-b69e-ba6a289a08a8)
+
+
 ## Download:
 To get the latest version, you can download it [here](https://mega.nz/file/owsDXRxL#UZLMD9Ej6lY5B4sMUDNbM5p6Tu_D4PLJgK1ufJFb8vo).
 
