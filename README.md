@@ -6,8 +6,6 @@ This repository contains [Vision-Cursor], a package of minimalist cursors for Wi
 
 ![1F9E84AD-6882-41E0-86F4-EEBBC9BD7F58](https://github.com/N3bulaX/Vision-Cursor/assets/117851699/3a7d6b72-c5d2-4a79-8383-8fd392788c70)
 
-## Download:
-To get the latest version, you can download it [here](https://mega.nz/file/owsDXRxL#UZLMD9Ej6lY5B4sMUDNbM5p6Tu_D4PLJgK1ufJFb8vo).
 
 **Installation Guide:**
 
